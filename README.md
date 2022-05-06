@@ -48,6 +48,10 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="github" **alt="github" width="40" height="40"/>
   
                                                                                                                                                
-</div>                                                                                                                                                  
+</div> 
+   
+ ---
+
+### :fire: My Stats :                                                                                                                                                 
  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=RoseIrungu&theme=dark&background=000000)](https://git.io/streak-stats) 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RoseIrungu)](https://github.com/anuraghazra/github-readme-stats)                                                                                                                                  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RoseIrungu)](https://github.com/anuraghazra/github-readme-stats)                                                                                                                                    
