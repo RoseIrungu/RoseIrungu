@@ -32,7 +32,11 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Rose-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rose-irungu-a00592210/) 
-<div>
+ 
+ ---
+
+### :hammer_and_wrench: Languages and Tools : 
+   <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
@@ -44,8 +48,5 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="github" **alt="github" width="40" height="40"/>
   
                                                                                                                                                
-</div>                                                                                                            
-         
- ---
-
-### :hammer_and_wrench: Languages and Tools :                                                                                                           
+</div>                                                                                                                                                  
+                                                                                                                                                  
