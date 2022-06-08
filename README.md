@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" "width="100" />
+  <img src="[https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif](https://unsplash.com/photos/p-xSl33Wxyc)" "width="100" />
 <div id="badges">
   <a href="https://www.linkedin.com/in/rose-irungu-a00592210/">
     <img src="https://img.shields.io/badge/LinkedIn-red?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
